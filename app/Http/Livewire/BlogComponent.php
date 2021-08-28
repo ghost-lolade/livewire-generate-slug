@@ -3,7 +3,7 @@
 namespace App\Http\Livewire;
 
 use Livewire\Component;
-use App\Models\Blogs;
+use App\Models\Blog;
 use \Cviebrock\EloquentSluggable\Services\SlugService;
 
 class BlogComponent extends Component

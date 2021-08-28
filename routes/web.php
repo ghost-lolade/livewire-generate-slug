@@ -17,4 +17,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::view('/generating-slug', 'livewire.welcome');
+Route::view('/generate-slug', 'livewire.welcome');

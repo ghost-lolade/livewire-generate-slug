@@ -19,7 +19,7 @@
 
         <div class="col-md-12">
             <div class="d-grid">
-                <button class="btn btn-dark" type="submit">
+                <button class="btn btn-success" type="submit">
                     Create Blog
                 </button>
             </div>
